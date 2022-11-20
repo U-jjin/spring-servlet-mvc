@@ -1,4 +1,4 @@
-package starter.springservlet.basic.web.response;
+package starter.springservlet.web.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import starter.springservlet.basic.HelloData;
